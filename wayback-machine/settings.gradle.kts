@@ -1,3 +1,3 @@
 
-rootProject.name = "wayback-machine"
+rootProject.name = "mn-covid-history"
 
